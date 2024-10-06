@@ -13,6 +13,5 @@ function math(a, b, c, d, e) {
     console.log(sortedNumbers);
 }
 
-// Example usage
 math(40, 50, 92, 50, 40);
 
