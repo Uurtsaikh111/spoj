@@ -1,0 +1,24 @@
+function number(n){
+if(n==1){
+    console.log("Monday")
+}
+if(n==2){
+    console.log("Tuesday")
+}
+if(n==3){
+    console.log("Wednesday")
+}
+if(n==4){
+    console.log("Thirsday")
+}
+if(n==5){
+    console.log("Friday")
+}
+if(n==6){
+    console.log("Saturday")
+}
+if(n==7){
+    console.log("Sunday")
+}
+}
+number(3)
